@@ -7,6 +7,12 @@ Saiba mais em [kluster Tecnologia](http://www.kluster.com.br)
 
 Melhorando no git
 
+<<<<<<< HEAD
 enviando novidades 
 
 modificado do branch master
+=======
+enviando novidades
+
+modificação na branch testing
+>>>>>>> testing
