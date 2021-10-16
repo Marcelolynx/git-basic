@@ -7,4 +7,6 @@ Saiba mais em [kluster Tecnologia](http://www.kluster.com.br)
 
 Melhorando no git
 
-enviando novidades
+enviando novidades 
+
+modificado do branch master
